@@ -1,4 +1,4 @@
-# -news-activity-
+# news-activity
 news pulse global news
 # 📰 News Activity Analysis
 
